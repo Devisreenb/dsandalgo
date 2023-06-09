@@ -7,7 +7,7 @@
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         
-        res = True 
+        res = Tgithrue 
         def dfs(root,h):
             nonlocal res
             if not root:
