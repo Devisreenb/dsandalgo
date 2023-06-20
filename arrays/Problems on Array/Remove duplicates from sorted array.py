@@ -20,7 +20,9 @@ output.removeDuplicates([2,2,4,5,6,6,7,7,7,8])
 '''
 The bruteforce approach involves converting list into set and then to list .
 Time complexity : O(N)
+Space complexity:O(N)
 
 The optimal solution involves two pointer approach ,where two pointers are used , one pointer moves with checking 
 if elements are different if so then replaces the element in first pointer with element in second and increments first pointer value
+Time complexity:O(N)
 '''
