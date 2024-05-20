@@ -1,1 +1,7 @@
-# repository1
+# Data Structures and Algorithms 
+## Arrays 
+## Patterns
+## Pointers
+## SlidingWindow
+## Stacks 
+## Trees
